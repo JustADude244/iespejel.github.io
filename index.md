@@ -1,7 +1,7 @@
 
 # Isaac Espejel's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating on 2029 and getting a careeer in game development.
+I am a computer science major at CSUF and I plan on graduating on 2029 and getting a career in game development.
 
 ## Favorite CPSC 120L Labs
 
